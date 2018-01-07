@@ -705,10 +705,10 @@
     float:left;
     margin-left:50%;
     margin-top: -32px;
-    transition: all .5s
+    transition: all 1s
 }
 .totop:hover{
-    transform:rotateZ(360deg);
+    transform:rotateX(360deg);
 }
 .footer p{
     text-align: center;
