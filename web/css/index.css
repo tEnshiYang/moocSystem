@@ -274,6 +274,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-content: space-between;
+    z-index: 9999;
 }
 
 .content-item {
